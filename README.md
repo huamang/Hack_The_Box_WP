@@ -6,7 +6,7 @@
 
 # Work List
 
-- [[Hack The Box\] 靶机1 Meow+Paper](Linux/[Hack The Box]靶机1 Meow+Paper.md)
+- [[Hack The Box\\] 靶机1 Meow+Paper](Linux/[Hack The Box]靶机1 Meow+Paper.md)
 - [[Hack The Box\] 靶机2 Backdoor](Linux/[Hack The Box]靶机2 Backdoor.md)
 - [[Hack The Box]靶机3 Lame](Linux/[Hack The Box]靶机3 Lame.md)
 - [[Hack The Box]靶机4 Jerry](Windows/[Hack The Box]靶机4 Jerry.md)
