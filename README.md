@@ -15,4 +15,5 @@
 - [靶机7 Blue](Windows/%5BHack%20The%20Box%5D靶机6%20Legacy%20%26%26%20靶机7%20Blue.md)
 - [靶机8 Optimum](Windows/%5BHack%20The%20Box%5D靶机8%20Optimum.md)
 - [靶机9 Bashed](Linux/%5BHack%20The%20Box%5D靶机9%20Bashed.md)
+- [靶机10 Devel](Windows/%5BHack%20The%20Box%5D靶机10%20Devel.md)
 
