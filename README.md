@@ -16,4 +16,6 @@
 - [靶机8 Optimum](Windows/%5BHack%20The%20Box%5D靶机8%20Optimum.md)
 - [靶机9 Bashed](Linux/%5BHack%20The%20Box%5D靶机9%20Bashed.md)
 - [靶机10 Devel](Windows/%5BHack%20The%20Box%5D靶机10%20Devel.md)
+- [靶机11 Cap](Linux/%5BHack%20The%20Box%5D靶机11%20Cap.md)
+- [靶机12 OpenAdmin](Linux/%5BHack%20The%20Box%5D靶机12%20OpenAdmin.md)
 
