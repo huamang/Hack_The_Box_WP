@@ -42,4 +42,3 @@ Buck3tH4TF0RM3!
 用python3弹一个shell，拿到rootshell
 
 ![image-20220404033255766](https://raw.githubusercontent.com/huamang/image/master/image-20220404033255766.png)
-
